@@ -1,7 +1,7 @@
 package main
 
 import (
-	"HomeWork_2/internal"
+	"internal"
 	"log"
 )
 
