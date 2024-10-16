@@ -1,7 +1,7 @@
 package internal
 
 import (
-	"HomeWork_2/internal/handlers"
+	"internal/handlers"
 	"context"
 	"log"
 	"net/http"
